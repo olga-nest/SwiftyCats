@@ -8,10 +8,11 @@
 
 import UIKit
 
-private let reuseIdentifier = "Cell"
+private let reuseIdentifier = "catCell"
 
 class CatsCollectionViewController: UICollectionViewController {
 
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
