@@ -37,15 +37,14 @@
                                                 <constraint firstAttribute="width" secondItem="xjL-5u-9wi" secondAttribute="height" multiplier="36:29" id="Bnt-8G-UE4"/>
                                             </constraints>
                                         </imageView>
-                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="d4l-jh-925">
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="d4l-jh-925">
                                             <rect key="frame" x="0.0" y="145" width="180" height="21"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                            <nil key="textColor"/>
+                                            <color key="textColor" red="0.40000000600000002" green="0.40000000600000002" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
                                             <nil key="highlightedColor"/>
                                         </label>
                                     </subviews>
                                 </view>
-                                <color key="backgroundColor" name="secondarySelectedControlColor" catalog="System" colorSpace="catalog"/>
                                 <constraints>
                                     <constraint firstItem="d4l-jh-925" firstAttribute="centerX" secondItem="Mlp-Bs-99d" secondAttribute="centerX" id="XZs-S4-jZG"/>
                                     <constraint firstItem="xjL-5u-9wi" firstAttribute="centerX" secondItem="Mlp-Bs-99d" secondAttribute="centerX" id="ZAF-ZS-HHL"/>
